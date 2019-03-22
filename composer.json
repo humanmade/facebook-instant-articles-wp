@@ -1,5 +1,5 @@
 {
-  "name": "automattic/facebook-instant-articles-wp",
+  "name": "humanmade/facebook-instant-articles-wp",
   "type": "wordpress-plugin",
   "license": "GPL-2.0",
   "description": "Add support for Instant Articles for Facebook to your WordPress site.",
